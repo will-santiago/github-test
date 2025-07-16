@@ -1,0 +1,150 @@
+{
+  "backToLobby": "Back to Lobby",
+  "challengeFriends": "Challenge Friends",
+  "challengeMoreFriends": "Challenge More Friends",
+  "chooseALeague": "Choose a League",
+  "chooseALeague.back": "Leagues",
+  "chooseALeagueDesc": "Start drafting your team",
+  "draft": "Draft",
+  "drafters": "Top 10 of {count} Drafters",
+  "draftComplete": "Your {abbreviation} lineup is set.",
+  "editLineup": "Edit Lineup",
+  "errorMsgDefault": "Sorry, something went wrong! Please try again.",
+  "howToPlay": "How To Play",
+  "lineupDrafted": "Lineup drafted",
+  "playAgain": "Play Again",
+  "scoringInfo": "Scoring Info",
+  "submitLineup": "Submit Lineup",
+  "results": "Results",
+  "resultsGlobal": "Global Results",
+  "resultsPlayNow": "Play Now",
+  "resultsRematch": "Rematch",
+  "monthlyLeaderboard": "Weekly Leaderboard",
+  "leaderboardEmpty": "You haven’t played any friends yet",
+  "leaderboardEmptySubtext": "Challenge a friend to unlock the leaderboard!",
+  "leaderboardPlayNow": "Play Now",
+  "leaderboardEmptyHeadshot": "You?",
+
+  "myLineups": "My Lineups",
+  "play": "Play",
+  "leaderboard": "Leaderboard",
+
+  "lineupActive": "Active",
+  "lineupActiveEmpty": "You haven't drafted any lineups yet!",
+  "lineupActiveEmptySubtext": "Draft some teams and come back to see your lineups!",
+  "lineupFinished": "Finished",
+  "lineupFinishedEmpty": "No finished games yet!",
+  "lineupFinishedEmptySubtext": "Once your games are finished, your lineups will show up here!",
+
+  "lineupSubtitleFinal": "Final",
+  "lineupSubtitleLive": "Live",
+  "lineupSubtitleStartsIn": "Starts In",
+
+  "errorDraftBudgetExceeded":
+    "Oops, you’ve gone over the $300K salary cap. Tap your players at the bottom to change your squad.",
+  "errorSingleTeamLineup": "Athletes must be from at least 2 different teams.",
+  "errorPicksAlreadyStarted": "Athletes can only be for games not yet started.",
+
+  "checkBackSoon": "Check back soon",
+  "myLineup": "My {abbreviation} Lineup",
+  "noGames": "No {abbreviation} Games",
+  "noRaces": "No {abbreviation} Races",
+  "playLeague": "Play {abbreviation}",
+
+  "tutorialLeague": "{bold} to start playing",
+  "tutorialLeagueBold": "Choose a league",
+  "tutorialDraft": "{bold} within your $300K budget",
+  "tutorialDraftBold": "Draft 5 athletes",
+  "tutorialChallenge": "Use that lineup to {bold}",
+  "tutorialChallengeBold": "challenge your friends",
+  "tutorialPlayNow": "Play Now",
+  "tutorialResults": "When the challenge is over, we’ll tell you {bold} and how you did",
+  "tutorialResultsBold": "who won",
+  "tutorialReturn": "{bold} for new challenges!",
+  "tutorialReturnBold": "Come back tomorrow",
+
+  "contestsStartsIn": "Contest starts in",
+  "countdownDays": "{days} DAYS",
+  "countdownDaysShort": "{days}d",
+  "countdownTime": "{hours}HR : {minutes}MIN : {seconds}SEC",
+  "countdownTimeShort": "{hours}h {minutes}m {seconds}s",
+
+  "challengeSent": "Your challenge has been sent",
+  "youChallengedNobody": "Think you can beat your friends? Send them a challenge!",
+  "youChallenged": "You challenged ",
+  "youChallengedBold": "{friendCount, plural, one {{friend1}} =2 {{friend1} and {friend2}} other {{friend1}, {friend2} and {friendCount, plural, one {{friend3}} other {{friendsRemaining, number} others}}}}!",
+
+  "tutorial": "Not sure how to play? {actionableContent}",
+  "actionableTutorial": "Tap to see the tutorial",
+
+  "scheduleStartsIn": "Starting in ",
+  "scheduleStartsBold": "{days, plural, =0 {{hours}:{minutes}:{seconds}} other {{days} days}}",
+
+  "salaryRemaining": "Remaining",
+
+  "doubtful": "Doubtful",
+  "questionable": "Questionable",
+  "out": "Out",
+
+  "leaderboardPoints": "{points, plural, one {# pt} other {# pts}}",
+  "leaderboardPosition": "{position, selectordinal, one {#st} two {#nd} few {#rd} other {#th} }",
+  "leaderboardVs": "vs {playerCount, plural, =2 {{player1}} =3 {{player1} and {player2}} =4 {{player1}, {player2} and {player3}} other {{player1}, {player2}}}",
+  "leaderboardOthers": "and {others, plural, one {# other} other {# others}}",
+
+  "clientError.default": "Something went wrong, please try again later.",
+  "serverError.default": "Something went wrong, please try again later.",
+  "timeoutError.default": "The action took too long, please try again.",
+  "connectionError.default": "The service is not available, please try again later.",
+  "networkError.default": "The network is down, please check your connection and try again.",
+  "selectSameContextError": "You have already submitted a lineup in this challenge.",
+  "selectContextForNewDraft": "You need to choose a friend to challenge before you can draft.",
+  "selectAContextError": "Please select your opponents.",
+  "challengeCreated": "Your challenge is sent!",
+  "challengeSubmitted": "You have joined this challenge!",
+  "challengeRedundant": "You have already joined this challenge.",
+  "contestIsOver":
+    "You can no longer submit a lineup because some games in this challenge have already started. Try creating a new challenge instead!",
+  "contestScheduleSwitched":
+    "Oh no, you’re too late! This contest has started but you can draft a lineup for the next schedule to create a new challenge!",
+  "contestScheduleSwitchedButDrafted":
+    "Oh no, you’re too late! This contest has started but it looks like you’re already set for the next one!",
+  "scheduleIsClosed":
+    "You cannot draft for this league as there are no open schedules. Try drafting in a different league instead!",
+  "termsOfUse": "Terms of Use",
+  "privacyPolicy": "Privacy Policy",
+
+  "privacyBlurb":
+    "By playing theScore Fantasy, you agree to theScore’s {termsOfUse} and {privacyPolicy}.",
+  "copyrightBlurb":
+    "Copyright © 2018 Score Media Ventures Inc. and/or its affiliates. Certain content reproduced under license.",
+
+  "maintenanceHeader": "We’re just getting some work done…",
+  "maintenanceSubheader": "We’ll be back up with plenty of time for you to draft your lineup!",
+
+  "chooseOpponentTitle": "Choose Oppoent",
+  "yourLineup": "Your Lineup",
+  "vs": "VS",
+  "challengeFriendTitle": "Friends",
+  "challengeFriendHeader": "Face off against friends!",
+  "challengeFriendButton": "Challenge Your Friends",
+
+  "challengeMatchmakeTitle": "Random Group",
+  "challengeMatchmakeHeader": "Find new {league} fans to play against",
+  "challengeMatchmakeButton": "Challenge Random Group",
+
+  "NFL": "NFL",
+  "NBA": "NBA",
+  "NHL": "NHL",
+  "MLB": "MLB",
+  "EPL": "EPL",
+  "LIGA": "LIGA",
+  "ICC": "ICC",
+  "IPL": "IPL",
+  "BUND": "BUND",
+  "NASCAR": "NASCAR",
+
+  "preSeasonEndInterstitialTitle": "{abbreviation} Play-Offs Are Almost Over!",
+  "preSeasonEndInterstitialBody": "But, don’t worry! We'll remind you when the next season starts. After you draft, we'll send you a message with more details.",
+  "preSeasonEndInterstitialCTA": "Got It",
+  "testStringPleaseIgnore": "this is a test string, please ignore"
+}
