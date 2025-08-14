@@ -7,52 +7,11 @@ sourceLocale:
   tms: en_us
   
 locales:
-- key: cs
-  tms: cs_cz
-- key: da
-  tms: da_dk
 - key: de
   tms: de_de
-- key: en-GB
-  tms: en_gb
-- key: es-CO
-  tms: es_co
-- key: es
-  tms: es_es
-- key: fi
-  tms: fi_fi
-- key: fr-CA
-  tms: fr_ca
-- key: fr
-  tms: fr_fr
-- key: hu
-  tms: hu_hu
-- key: it
-  tms: it_it
-- key: ja
-  tms: ja_jp
-- key: ko
-  tms: ko_kr
-- key: nl
-  tms: nl_nl
-- key: 'no'
-  tms: no_no
-- key: pl
-  tms: pl_pl
 - key: pt-BR
   tms: pt_br
-- key: ru
-  tms: ru_ru
-- key: sv
-  tms: sv_se
-- key: th
-  tms: th_th
-- key: vi
-  tms: vi_vn
-- key: zh-CN
-  tms: zh_cn
-- key: zh-TW
-  tms: zh_tw
+
 
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
