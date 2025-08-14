@@ -1,8 +1,11 @@
 ---
 github_repo: will-santiago/github-test
+filenameLanguageSeparator: "~"
+
 sourceLocale:
   key: en
   tms: en_us
+  
 locales:
 - key: cs
   tms: cs_cz
@@ -50,9 +53,20 @@ locales:
   tms: zh_cn
 - key: zh-TW
   tms: zh_tw
+
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
+  filenameLanguageSeparator: "."
   sourceFiles:
-  - path: en/*.xml
+  - path: en/NEWS01.xml
+  - path: en/NEWS02.xml
+  - path: en/NEWS03.xml
+  - path: en/NEWS04.xml
+  - path: en/NEWS05.xml
+  - path: en/NEWS06.xml
+  - path: en/NEWS07.xml
+  - path: en/NEWS08.xml
+  - path: en/NEWS09.xml
+  - path: en/NEWS10.xml
 
 
