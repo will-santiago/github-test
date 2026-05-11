@@ -7,8 +7,6 @@ sourceLocale:
   tms: en_us
   
 locales:
-- key: de
-  tms: de_de
 - key: pt-BR
   tms: pt_br
 
@@ -17,15 +15,6 @@ sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
   filenameLanguageSeparator: "."
   sourceFiles:
-  - path: en/NEWS01.xml
-  - path: en/NEWS02.xml
-  - path: en/NEWS03.xml
-  - path: en/NEWS04.xml
-  - path: en/NEWS05.xml
-  - path: en/NEWS06.xml
-  - path: en/NEWS07.xml
-  - path: en/NEWS08.xml
-  - path: en/NEWS09.xml
-  - path: en/NEWS10.xml
+  - path: en/NEWS01.json
 
 
