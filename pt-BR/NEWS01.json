@@ -1,0 +1,21 @@
+{
+    "TITLE": "Atualize sua conta após a mudança de endereço de e-mail",
+    "URL": "https://support.eset.com/en/kb32-update-your-account-after-an-email-address-change",
+    "SECTIONS": {
+        "ISSUE_TITLE": "Descendência",
+        "ISSUE_TEXT": "Preciso atualizar sua conta ESET com um novo endereço de e-mail",
+        "ISSUE_LINK": "Você é cliente da América do Norte? Clique aqui",
+        "SOLUTION_TITLE": "Solução",
+        "STEP_1_TITLE": "Passo 1",
+        "STEP_1_TEXT": "Visite a página de Contato com o Suporte Técnico.",
+        "STEP_1_URL": "http://www.eset.com/int/support/contact/",
+        "STEP_2_TITLE": "Passo 2",
+        "STEP_2_TEXT": "Selecione o tipo de usuário que se aplica.",
+        "HOME_USERS_TITLE": "Usuários domésticos",
+        "HOME_USERS_TEXT": "clique em Suporte ao Usuário Inicial → Outras perguntas ou comentários → Atualize minhas informações de licença → Clique no botão vermelho, canto inferior direito (Contato com o Suporte Técnico)",
+        "BUSINESS_USERS_TITLE": "Usuários empresariais",
+        "BUSINESS_USERS_TEXT": "clique em Suporte Empresarial & Empresarial (Produto Servidor) → Outro problema ou dúvida do sistema → Alterar informações da conta → Clique no botão vermelho, canto inferior direito (Contato com o Suporte Técnico)",
+        "STEP_3_TITLE": "Passo 3",
+        "STEP_3_TEXT": "Na página de Contato com o Suporte Técnico, insira seu novo endereço de e-mail, preencha todas as informações necessárias e então clique em Enviar. O Suporte Técnico da ESET processará sua solicitação e notificará quando seu endereço de e-mail for atualizado. Se precisarem de mais informações, o Suporte Técnico da ESET entrará em contato por e-mail."
+    }
+}
