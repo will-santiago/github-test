@@ -1,0 +1,182 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "daysRemaining" : {
+      "comment" : "Plural string",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 day remaining"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d days remaining"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "itemsInCart" : {
+      "comment" : "Device-specific plural string",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 item in your cart"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d items in your cart"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "notifications" : {
+      "comment" : "Plural string with zero plural form",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 notification"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d notifications"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "No notifications"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "unreadMessages" : {
+      "comment" : "Device-specific plural string with zero plural form",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 unread message on your Mac"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d unread messages on your Mac"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "No unread messages on your Mac"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "welcomeMessage" : {
+      "comment" : "Regular string",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "manual",
+            "value" : "Welcome to the app!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo ao aplicativo!"
+          }
+        }
+      }
+    },
+    "welcomeUser" : {
+      "comment" : "String with variable and substitution strings",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome, %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "user"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "users"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "no users"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
