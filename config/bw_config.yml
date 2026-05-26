@@ -1,6 +1,5 @@
 ---
 github_repo: will-santiago/github-test
-filenameLanguageSeparator: "~"
 
 sourceLocale:
   key: en-US
@@ -19,7 +18,6 @@ locales:
 
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
-  filenameLanguageSeparator: "."
   sourceFiles:
   - path: en/Localizable.xcstrings
 
