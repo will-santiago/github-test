@@ -1,0 +1,21 @@
+{
+    "TITLE": "メールアドレス変更後にアカウントを更新してください",
+    "URL": "https://support.eset.com/en/kb32-update-your-account-after-an-email-address-change",
+    "SECTIONS": {
+        "ISSUE_TITLE": "子女",
+        "ISSUE_TEXT": "ESETアカウントを新しいメールアドレスに更新する必要があります",
+        "ISSUE_LINK": "北米のお客様ですか? こちらをクリックしてください",
+        "SOLUTION_TITLE": "解決策",
+        "STEP_1_TITLE": "ステップ1",
+        "STEP_1_TEXT": "技術サポートに連絡するページをご覧ください。",
+        "STEP_1_URL": "http://www.eset.com/int/support/contact/",
+        "STEP_2_TITLE": "ステップ2",
+        "STEP_2_TEXT": "該当するユーザーの種類を選択します。",
+        "HOME_USERS_TITLE": "家庭用ユーザー",
+        "HOME_USERS_TEXT": "ホームユーザーサポートをクリックしてください → その他の質問やフィードバック → ライセンス情報を更新してください → 右下の赤いボタンをクリックしてください(技術サポートにお問い合わせください)",
+        "BUSINESS_USERS_TITLE": "ビジネスユーザー",
+        "BUSINESS_USERS_TEXT": "ビジネスおよびエンタープライズ(サーバー製品)サポート → その他のシステム問題や質問 → アカウント情報の変更 → 右下の赤いボタンをクリックしてください(技術サポートに連絡)",
+        "STEP_3_TITLE": "ステップ3",
+        "STEP_3_TEXT": "技術サポートに連絡ページに新しいメールアドレスを入力し、必要な情報をすべて入力してから送信をクリックします。 ESETテクニカルサポートがリクエストを処理し、メールアドレスが更新された際に通知します。 さらに詳しい情報が必要な場合は、ESETテクニカルサポートがメールでご連絡いたします。"
+    }
+}
