@@ -3,18 +3,24 @@ github_repo: will-santiago/github-test
 filenameLanguageSeparator: "~"
 
 sourceLocale:
-  key: en
+  key: en-US
   tms: en_us
   
 locales:
 - key: pt-BR
   tms: pt_br
+- key: de-DE
+  tms: de_de
+- key: ja-JP
+  tms: ja_jp
+- key: ar-SA
+  tms: ar_sa
 
 
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
   filenameLanguageSeparator: "."
   sourceFiles:
-  - path: en/NEWS01.json
+  - path: en/Localizable.xcstrings
 
 
