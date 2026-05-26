@@ -17,7 +17,7 @@ locales:
 
 
 sources:
-- defaultOutputPathPattern: "{lang}/{filename}"
+- defaultOutputPathPattern: "en/Localizable.xcstrings"
   sourceFiles:
   - path: en/Localizable.xcstrings
 
