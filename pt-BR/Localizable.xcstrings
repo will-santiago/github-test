@@ -41,24 +41,6 @@
             }
           }
         },
-        "pt-BR" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "1 dia restante"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%d dias restantes"
-                }
-              }
-            }
-          }
-        },
         "ar-SA" : {
           "variations" : {
             "plural" : {
@@ -72,42 +54,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%d يوم متبق"
-                }
-              }
-            }
-          }
-        },
-        "de-DE" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Noch 1 Tag"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%d Tage verbleibend"
-                }
-              }
-            }
-          }
-        },
-        "ja-JP" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "残り1日"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "残%d日"
                 }
               }
             }
@@ -167,30 +113,6 @@
             }
           }
         },
-        "pt-BR" : {
-          "variations" : {
-            "device" : {
-              "ipad" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "1 item no seu carrinho"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%d itens no seu carrinho"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "ar-SA" : {
           "variations" : {
             "device" : {
@@ -207,54 +129,6 @@
                       "stringUnit" : {
                         "state" : "translated",
                         "value" : "%d العناصر في عربة التسوق الخاصة بك"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "de-DE" : {
-          "variations" : {
-            "device" : {
-              "ipad" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "1 Artikel in deinem Warenkorb"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%d Artikel in deinen Warenkorb"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "ja-JP" : {
-          "variations" : {
-            "device" : {
-              "ipad" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "カートに商品1件"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "カートの中の商品%d"
                       }
                     }
                   }
@@ -317,30 +191,6 @@
             }
           }
         },
-        "pt-BR" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "1 notificação"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%d notificações"
-                }
-              },
-              "zero" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Sem notificações"
-                }
-              }
-            }
-          }
-        },
         "ar-SA" : {
           "variations" : {
             "plural" : {
@@ -360,54 +210,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "لا إشعارات"
-                }
-              }
-            }
-          }
-        },
-        "de-DE" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "1 Benachrichtigung"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%d Benachrichtigungen"
-                }
-              },
-              "zero" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Keine Benachrichtigungen"
-                }
-              }
-            }
-          }
-        },
-        "ja-JP" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "1 通知"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%d通知"
-                }
-              },
-              "zero" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "通知なし"
                 }
               }
             }
@@ -479,36 +281,6 @@
             }
           }
         },
-        "pt-BR" : {
-          "variations" : {
-            "device" : {
-              "mac" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "1 mensagem não lida no seu Mac"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%d mensagens não lidas no seu Mac"
-                      }
-                    },
-                    "zero" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "Nenhuma mensagem não lida no seu Mac"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "ar-SA" : {
           "variations" : {
             "device" : {
@@ -531,66 +303,6 @@
                       "stringUnit" : {
                         "state" : "translated",
                         "value" : "لا توجد رسائل غير مقروءة على جهاز الماك الخاص بك"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "de-DE" : {
-          "variations" : {
-            "device" : {
-              "mac" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "1 ungelesene Nachricht auf Ihrem Mac"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%d ungelesene Nachrichten auf Ihrem Mac"
-                      }
-                    },
-                    "zero" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "Keine ungelesenen Nachrichten auf deinem Mac"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "ja-JP" : {
-          "variations" : {
-            "device" : {
-              "mac" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "Macに未読メッセージが1件あります"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "Mac%d未読メッセージを"
-                      }
-                    },
-                    "zero" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "Macに未読メッセージはありません"
                       }
                     }
                   }
@@ -626,18 +338,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "مرحبا بك في التطبيق!"
-          }
-        },
-        "de-DE" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Willkommen in der App!"
-          }
-        },
-        "ja-JP" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アプリへようこそ!"
           }
         }
       }
@@ -712,39 +412,6 @@
             }
           }
         },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bem-vindo, %#@USERNAME@!"
-          },
-          "substitutions" : {
-            "USERNAME" : {
-              "formatSpecifier" : "USERNAME",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Usuário"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Usuários"
-                    }
-                  },
-                  "zero" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Sem usuários"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "ar-SA" : {
           "stringUnit" : {
             "state" : "translated",
@@ -771,72 +438,6 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "لا يوجد مستخدمون"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "de-DE" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Willkommen, %#@USERNAME@!"
-          },
-          "substitutions" : {
-            "USERNAME" : {
-              "formatSpecifier" : "USERNAME",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Nutzer"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Nutzer"
-                    }
-                  },
-                  "zero" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "Keine Nutzer"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "ja-JP" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ようこそ、%#@USERNAME@先生!"
-          },
-          "substitutions" : {
-            "USERNAME" : {
-              "formatSpecifier" : "USERNAME",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "ユーザー"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "ユーザー"
-                    }
-                  },
-                  "zero" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "ユーザーなし"
                     }
                   }
                 }
