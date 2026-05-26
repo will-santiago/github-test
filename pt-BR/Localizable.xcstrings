@@ -1,0 +1,851 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "daysRemaining" : {
+      "comment" : "Plural string",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 day remaining"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d days remaining"
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 day remaining"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d days remaining"
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "1 dia restante"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d dias restantes"
+                }
+              }
+            }
+          }
+        },
+        "ar-SA" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "يوم واحد متبقي"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d يوم متبق"
+                }
+              }
+            }
+          }
+        },
+        "de-DE" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Noch 1 Tag"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d Tage verbleibend"
+                }
+              }
+            }
+          }
+        },
+        "ja-JP" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "残り1日"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "残%d日"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "itemsInCart" : {
+      "comment" : "Device-specific plural string",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 item in your cart"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d items in your cart"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 item in your cart"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d items in your cart"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "1 item no seu carrinho"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d itens no seu carrinho"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ar-SA" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "عنصر واحد في عربة التسوق الخاصة بك"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d العناصر في عربة التسوق الخاصة بك"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "de-DE" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "1 Artikel in deinem Warenkorb"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d Artikel in deinen Warenkorb"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ja-JP" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "カートに商品1件"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "カートの中の商品%d"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "notifications" : {
+      "comment" : "Plural string with zero plural form",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 notification"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d notifications"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "No notifications"
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "1 notification"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%d notifications"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "No notifications"
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "1 notificação"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d notificações"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Sem notificações"
+                }
+              }
+            }
+          }
+        },
+        "ar-SA" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "إشعار واحد"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d إشعارات"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "لا إشعارات"
+                }
+              }
+            }
+          }
+        },
+        "de-DE" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "1 Benachrichtigung"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d Benachrichtigungen"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Keine Benachrichtigungen"
+                }
+              }
+            }
+          }
+        },
+        "ja-JP" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "1 通知"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%d通知"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "通知なし"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "unreadMessages" : {
+      "comment" : "Device-specific plural string with zero plural form",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 unread message on your Mac"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d unread messages on your Mac"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "No unread messages on your Mac"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "1 unread message on your Mac"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "%d unread messages on your Mac"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "new",
+                        "value" : "No unread messages on your Mac"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "1 mensagem não lida no seu Mac"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d mensagens não lidas no seu Mac"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Nenhuma mensagem não lida no seu Mac"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ar-SA" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "رسالة واحدة غير مقروءة على جهاز الماك الخاص بك"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d الرسائل غير المقروءة على جهاز الماك الخاص بك"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "لا توجد رسائل غير مقروءة على جهاز الماك الخاص بك"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "de-DE" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "1 ungelesene Nachricht auf Ihrem Mac"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%d ungelesene Nachrichten auf Ihrem Mac"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Keine ungelesenen Nachrichten auf deinem Mac"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ja-JP" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Macに未読メッセージが1件あります"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Mac%d未読メッセージを"
+                      }
+                    },
+                    "zero" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Macに未読メッセージはありません"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "welcomeMessage" : {
+      "comment" : "Regular string",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "manual",
+            "value" : "Welcome to the app!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo ao aplicativo!"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome to the app!"
+          }
+        },
+        "ar-SA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا بك في التطبيق!"
+          }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willkommen in der App!"
+          }
+        },
+        "ja-JP" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリへようこそ!"
+          }
+        }
+      }
+    },
+    "welcomeUser" : {
+      "comment" : "String with variable and substitution strings",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome, %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "user"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "users"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "no users"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome, %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "user"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "users"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "no users"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo, %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Usuário"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Usuários"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Sem usuários"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ar-SA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا بك يا %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "المستخدم"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "المستخدمون"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "لا يوجد مستخدمون"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willkommen, %#@USERNAME@!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Nutzer"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Nutzer"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Keine Nutzer"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ja-JP" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ようこそ、%#@USERNAME@先生!"
+          },
+          "substitutions" : {
+            "USERNAME" : {
+              "formatSpecifier" : "USERNAME",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "ユーザー"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "ユーザー"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "ユーザーなし"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
