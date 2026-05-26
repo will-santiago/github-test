@@ -19,6 +19,6 @@ locales:
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
   sourceFiles:
-  - path: en/NEWS01.json
+  - path: en/Localizable.xcstrings
 
 
